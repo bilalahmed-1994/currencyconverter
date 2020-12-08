@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bilalahmed-1994/currencyconverter">
-    <img src="Screenshot_4.png" alt="Logo" width="700" height="700">
+    <img src="Screenshot_4.png" alt="Logo" width="700" >
   </a>
 
   <h3 align="center">Currency App</h3>
